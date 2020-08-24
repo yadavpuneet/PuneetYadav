@@ -8,11 +8,16 @@ I have 5 years of exprence in the field of IT as Data Analyst and Computer train
 
 Currently, I am looking for a full-time role in Data Science, Machine Learning or related field.
 
-Things I'm good at 🔥
-Languages: Python, PstgreSQL, R Studio.
+### Things I'm good at 🔥
 
-Framework: Flask, QT5, Tableau, PowerBI.
+### Languages:
+Python, PstgreSQL, R Studio.
 
-Libraries & Tools: AWS EC2, AWS S3, Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, D3.js, PyTorch, Keras, NLTK, Sentry.
+### Framework: 
+Flask, QT5, Tableau, PowerBI.
 
-Data Analysis: Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods, Google Analytics.
+### Libraries & Tools:
+AWS EC2, AWS S3, Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, D3.js, PyTorch, Keras, NLTK, Sentry.
+
+### Data Analysis:
+Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods, Google Analytics.
