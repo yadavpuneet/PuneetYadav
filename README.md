@@ -1,4 +1,4 @@
-### yadavpuneet
+### Puneet Yadav
 
 Hi there 👋🏻
 
